@@ -5,7 +5,7 @@
     "website": "callumwright.com",
     "employment": {
         "company": "Sophos",
-        "position": "Software Engineer"
+        "position": "Senior Software Engineer"
     },
     "known_languages_libraries_frameworks": {
         "professional": [
