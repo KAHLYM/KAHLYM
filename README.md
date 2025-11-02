@@ -2,9 +2,8 @@
 {
     "name": "Callum Wright",
     "social": "@KAHLYM",
-    "website": "callumwright.com",
     "employment": {
-        "company": "Sophos",
+        "company": "Dexory",
         "position": "Senior Software Engineer"
     },
     "known_languages_libraries_frameworks": {
